@@ -11,6 +11,8 @@ This repository is meant as a window into some of my work; I am not a software e
 **SalarySeed**
 A free iOS app that helps people in Portugal validate and benchmark their net salary. It also reads your payslip and tells you whether your company is correctly deducting tax and social security for you. Everything runs on the phone, and every figure comes from an official, openly licensed table at Portuguese or European level.
 
+I will publish SalarySeed on the Portuguese App Store soon (currently awaiting developer verification from Apple.
+
 [Live demo](https://afonsoaz.github.io/SalarySeed/) | [Code and write-up](https://github.com/afonsoaz/SalarySeed)
 
 
