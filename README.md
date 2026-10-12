@@ -20,6 +20,11 @@ A website for my grandparents' restaurant in Santo Tirso, Portugal, built almost
 
 [Live site](https://restaurantemirario.com) | [Code and write-up](https://github.com/afonsoaz/mirario)
 
+**Casa & Tendências**
+A website for my mother's interior decoration business in Santo Tirso, Portugal, built almost entirely with AI (specifically Lovable). The shop is closed to walk-in customers and she works by appointment, at the shop or in clients' homes, so the site shows the projects she has worked on, introduces her, and makes it easy to book a visit.
+
+[Live site](https://casatendencias.com) | [Code and write-up](https://github.com/afonsoaz/casatendencias)
+
 
 ## Elsewhere
 
