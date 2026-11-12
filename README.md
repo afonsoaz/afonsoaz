@@ -28,4 +28,4 @@ A website for my mother's interior decoration business in Santo Tirso, Portugal,
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/afonsoaz/)
+[Personal website](https://afonsoazevedo.me) | [LinkedIn](https://www.linkedin.com/in/afonsoaz/)
